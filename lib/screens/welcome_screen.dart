@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:shopping_ui/module/register_screen.dart';
+import 'package:shopping_ui/screens/register_screen.dart';
 
 class WelcomeView extends StatefulWidget {
   const WelcomeView({super.key});
