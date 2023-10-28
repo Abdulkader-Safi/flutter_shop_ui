@@ -1,16 +1,9 @@
 # shopping_ui
 
-A new Flutter project.
+| Sign In                                                                                       | Sign Up                                                                                       |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![Image 1]("./../assets/images/simulator_screenshot_35609A3B-CC95-4D3D-94F0-A779BF4FD483.png) | ![Image 2]("./../assets/images/simulator_screenshot_090A429B-DC2C-47B9-9040-DC947518B758.png) |
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Home                                                                                                                | Details                                                                                       | Details                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| ![Image 1]("./../assets/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-28%20at%2009.12.23.png) | ![Image 2]("./../assets/images/simulator_screenshot_52CCCB60-28F1-46D4-9B23-64AEA44ADABC.png) | ![Image 2]("./../assets/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-28%20at%2009.12.33.png) |
